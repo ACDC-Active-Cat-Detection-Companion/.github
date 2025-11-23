@@ -3,10 +3,10 @@
 ## Team Information
 **Group Number:** 37
 
-* **Adam Aubry** (NetID: aaubr, Email: aaubr@uic.edu)
-* **John Gutama** (NetID: jguta2, Email: jguta2@uic.edu)
-* **Elizabeth Cardoso** (NetID: ecard6, Email: ecard6@uic.edu)
-* **John Leveille** (NetID: jleve, Email: jleve@uic.edu)
+* **Adam Aubry**
+* **John Gutama**
+* **Elizabeth Cardoso**
+* **John Leveille**
 
 ---
 
